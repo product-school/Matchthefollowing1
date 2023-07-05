@@ -1575,11 +1575,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5pPMSKHAohS" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5pPMSKHAohS.6k98ILHAlkX" displaytext="Drag-and-Drop Interaction" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="_player.5pPMSKHAohS.6k98ILHAlkX" displaytext="Drag-and-Drop Interaction" expand="false" type="slide" />
       </links>
     </outline>
   </nav_data>
